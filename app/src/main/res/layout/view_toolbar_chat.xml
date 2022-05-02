@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/toolbarParent"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="@color/blue"
+    android:layoutDirection="ltr"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/imgBack"
+        android:layout_width="0dp"
+        android:layout_height="24dp"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:layout_weight="0.10"
+        app:srcCompat="@drawable/ic_arrow_back"
+        tools:ignore="VectorDrawableCompat"
+        app:tint="@color/Whit" />
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.20">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/img_profile_userChat"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="5dp"
+            android:src="@drawable/img_profile" />
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.70"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.80"
+            android:orientation="vertical"
+            android:paddingRight="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginTop="2dp"
+                android:layout_weight="0.50"
+                android:text="David"
+                android:textColor="@color/Whit" />
+
+            <TextView
+                android:id="@+id/txtToolbar_name_user"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.50"
+                android:text="Online"
+                android:textColor="@color/Whit" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

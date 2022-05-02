@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#083A08</color>
+    <color name="colorPrimaryDark">#2b5329</color>
+    <color name="colorPrimaryWhite">#9ccc9c</color>
+    <color name="colorAccent">#649568</color>
+    <color name="colorBack">#2b5329</color>
+
+    <color name="Whit">#FFFFFF</color>
+
+    <color name="circleImageBorder">#48d3cbcb</color>
+
+    <color name="spalsh">#f9d423</color>
+
+    <color name="trialText_color">#767b8f</color>
+
+
+    <color name="digikala_red_btn">#ef394e</color>
+    <color name="digikala_red_txt">#ef3a4f</color>
+    <color name="digikala_gray_txt">#909090</color>
+    <color name="digikala_green_txt">#3e8542</color>
+
+    <color name="digikala_gray_imageHint">#9e9e9e</color>
+
+
+    <color name="digikala_gray_background">#f9f9f9</color>
+    <color name="digikala_gray_editText">#f0f0f1</color>
+    <color name="digikala_black_TextPrice">#000000</color>
+    <color name="digikala_blue_TextLink">#5cc6d8</color>
+
+
+
+    <color name="darkTextColor">#444444</color>
+    <color name="red_high_transparent">#44ff6161</color>
+
+
+
+    <color name="withe">#ffffff</color>
+    <color name="green">#64DD17</color>
+    <color name="red">#f44336</color>
+    <color name="blue">#3F51B5</color>
+    <color name="colorText1">#292929</color>
+    <color name="colorText2">#cfcfcf</color>
+    <color name="colorText02">#cfcfcf</color>
+
+    <color name="colorText3">#bebebe</color>
+    <color name="colorText4">#f5f5f5</color>
+
+    <color name="White">#FFFFFFFF</color>
+    <color name="liteGray">#e2e2e2</color>
+    <color name="liteGray2">#F1F1F1</color>
+    //---------------------------------------------------------------
+    <color name="new1">#1F2833</color>
+    <color name="new2">#4bb6ef</color>
+    <color name="new3">#4bb6ef</color>
+    <color name="new4">#2D5F5D</color>
+
+    <color name="gray50">#fafafa</color>
+
+    <color name="gray500">#9e9e9e</color>
+    <color name="gray400">#BDBDBD</color>
+    <color name="gray300">#E0E0E0</color>
+    <color name="gray200">#cdcdcd</color>
+    <color name="grey_600">#ff757575</color>
+    <color name="grey_700">#ff616161</color>
+    <color name="grey_700_alpha_50">#bb616161</color>
+    <color name="grey_800">#ff424242</color>
+    <color name="grey_900">#ff212121</color>
+
+    <color name="yellow">#f6d03d</color>
+
+
+    <color name="hockeyapp_background_header">#ffe6ecef</color>
+    <color name="hockeyapp_background_light">#ffcccccc</color>
+    <color name="hockeyapp_background_white">#ffffffff</color>
+    <color name="hockeyapp_button_background">#ff000000</color>
+    <color name="hockeyapp_button_background_pressed">#ff888888</color>
+    <color name="hockeyapp_button_background_selected">#ff444444</color>
+    <color name="hockeyapp_text_black">#ff000000</color>
+    <color name="hockeyapp_text_light">#ffcccccc</color>
+    <color name="hockeyapp_text_normal">#ff888888</color>
+    <color name="hockeyapp_text_white">#ffffffff</color>
+
+    <color name="mainColor">#FFA62626</color>
+    <color name="textColor">#797979</color>
+    <color name="editTextColor">@color/darkGray</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="tel_major">#effdde</color>
+    <color name="tel_date_major">#6cc28f</color>
+
+
+
+    <color name="redLight">#ffFFCFD1</color>
+    <color name="darkGray">#363636</color>
+    <color name="redLightTrans">#44ff6161</color>
+    <color name="red_high_light">#ffFFCFD1</color>
+    <color name="backgroundColor">#e5e5e5</color>
+
+    <color name="profileItemUnSelected">#ffe5e5e5</color>
+    <color name="profileItemIsSelected">#ffd4d4d4</color>
+
+    <color name="buttonStateNormal">#CFCFCF</color>
+    <color name="buttonStatePress">#39cfcfcf</color>
+
+    <color name="dialog_Show">#403F4C</color>
+
+    <color name="red_transparent">#a0a62626</color>
+
+
+
+    <color name="black">#000000</color>
+    <color name="color_a1">#bb9976</color>
+</resources>
